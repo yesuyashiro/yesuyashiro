@@ -45,7 +45,7 @@
       <text x="330" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#5f7f74">github     </text>
       <text x="440" y="248" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9f7e4">since 2019 · 4 public repos</text></g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.05s" dur="0.2s" fill="freeze"/>
       <text x="330" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#5f7f74">activity   </text>
-      <text x="440" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9f7e4">4 contributions in the last year</text></g>
+      <text x="440" y="274" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#c9f7e4">559 contributions in the last year</text></g>
   <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.40s" dur="0.2s" fill="freeze"/>
     <text x="330" y="308" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="14" fill="#5f7f74">status     </text>
     <circle cx="446" cy="303" r="5" fill="#39ff9f" filter="url(#g2)">
